@@ -1,10 +1,16 @@
 web130
 ======
 
-## [Canvas website for the class.] (http://tiny.cc/web130)
-This will be used for grading and assignments
+## Syllabus and assignments
+The syllabus is on [Canvas] (http://tiny.cc/web130). We will be using [Canvas] (http://tiny.cc/web130) for the for grading and assignments.
 
-## [Syllabus]  (http://tiny.cc/web130)
+## 
+
+## Resources
+
+* list
+* from
+* web 150 site
 
 
 
