@@ -28,19 +28,19 @@ www
 
 you should already have most of that and just need to add the classwork folder and contents. Try to use the command line to do this. You will need some basic commands:
 
-```
-|command  |  meaning
---- | ---
-pwd | present working directory 
-ls | list the files and folders in this directory
-ls -a | list all files and folders, including hidden files
-cd | change directory, use ../ to go up a directory
-mkdir | make a directory (folder) name it inline **mkdir myFolder**
-touch | make a file **touch myFile.html**
-rm | remove (delete) a file
-rm -r | remove recursively (used for folders)
-rm -rf | force remove - can be used to remove hidden files like .git
-```
+
+| command  |  meaning |
+| --- | --- |
+|pwd | present working directory |
+| ls | list the files and folders in this directory |
+| ls -a | list all files and folders, including hidden files |
+| cd | change directory, use ../ to go up a directory |
+| mkdir | make a directory (folder) name it inline **mkdir myFolder** |
+|  touch | make a file **touch myFile.html** |
+| rm | remove (delete) a file |
+| rm -r | remove recursively (used for folders) |
+| rm -rf | force remove - can be used to remove hidden files like .git |
+
 
 #### Git commands
 git is our version control system. add your new folders to the git tracking, make a commit and push your files to your github account.
