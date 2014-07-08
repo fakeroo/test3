@@ -46,9 +46,10 @@ you should already have most of that and just need to add the classwork folder a
 git is our version control system. add your new folders to the git tracking, make a commit and push your files to your github account.
 
 The most basic commands we will be using with git will follow this pattern:
+
 1. make changes to code
 2. run   `git status` on the command line to verify what has change. If it looks good:
-2. add changes to git on command line with `git add .'
+2. add changes to git on command line with `git add .`
 3. run `git commit -m "some short message"`
 4. run `git push origin master` to send code to github. enter your username and password
 
